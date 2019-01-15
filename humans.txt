@@ -1,0 +1,77 @@
+    _          _   _     _        _   _                  
+   / \   _ __ | |_(_)___| |_ __ _| |_(_) __ _ _   _  ___ 
+  / _ \ | '_ \| __| / __| __/ _` | __| |/ _` | | | |/ _ \
+ / ___ \| | | | |_| \__ \ || (_| | |_| | (_| | |_| |  __/
+/_/   \_\_| |_|\__|_|___/\__\__,_|\__|_|\__, |\__,_|\___|
+                                           |_|           
+
+/* TEAM */
+
+  Digital Strategist : Alberto Gomez
+  Twitter: @kidvaldez
+  From: Lausanne, Switzerland
+
+  Web Software Engineer : Gilles Doge
+  Twitter: @gido
+  Github: gido
+  From: Lausanne, Switzerland
+
+  Software Designer : Marc Friederich
+  Twitter: @zufrieden
+  Github: zufrieden
+  From: Lausanne, Switzerland
+
+  Lead Web Developer: Yann Gouffon
+  Twitter: @Yago_0
+  Github: yago
+  From: Lausanne, Switzerland
+
+  Artistic Director : Guillaume Berry
+  Twitter: @guillaumeberry
+  From: Lausanne, Switzerland - Lyon, France
+
+  Visual Designer : Pierre Georges
+  Twitter: @pierre__georges
+  From: Lausanne, Switzerland
+
+  Web Developer: Toni Fisler
+  Twitter: @tonifisler
+  Github: tonifisler
+  From: Lausanne, Switzerland
+
+  UX Designer : Noemie Sandoz
+  Twitter: @noemiesandoz
+  From: Payerne, Switzerland
+
+  Web Developer: Kevin Wenger
+  Twitter: @wengerk
+  Github: wengerk
+  From: Vevey, Switzerland
+
+  Web Developer: Julien Minguely
+  Gibhub: jminguely
+  From: Fribourg, Switzerland
+  
+  Web Developer: Flavien Knuchel
+  Twitter: @flavienknuchel
+  Github: knuch
+  From: Attalens, Switzerland
+  
+  Project Manager: Camille Létang
+  Twitter: @hagaroyh
+  From: Lausanne, Switzerland
+
+  Web Developer: Vincent Moulene
+  Twitter: @MouleneVince
+  Github: vints24
+  From: Gex, France
+  
+  Project Manager: Arthur Descoeudres
+  Github: 8uhr
+  Twitter: @8_uhr
+  From: Lausanne, Switzerland
+
+
+/* SITE */
+
+  Built in: 2018

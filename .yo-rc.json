@@ -1,0 +1,10 @@
+{
+  "generator-toolbox": {
+    "promptValues": {
+      "repo": "https://github.com/antistatique/immorama.git",
+      "atomic": "atoms<molecules<organisms",
+      "src": "styleguide",
+      "dest": "assets"
+    }
+  }
+}

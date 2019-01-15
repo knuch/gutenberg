@@ -1,0 +1,34 @@
+{
+  "src": "styleguide/",
+  "dest": "web/app/themes/gutenberg/resources/dist/",
+  "ghpages": "assets/",
+  "remote": "",
+  "images": [
+    "assets/images/**/*"
+  ],
+  "svg": [
+    "assets/svg/**/*"
+  ],
+  "icons": [
+    "assets/icons/**/*"
+  ],
+  "iconsFontName": "icon",
+  "fonts": [
+    "assets/fonts/**/*"
+  ],
+  "vendors": {
+    "css": [],
+    "js": [
+      "node_modules/bootstrap/js/dist/alert.js",
+      "node_modules/bootstrap/js/dist/button.js",
+      "node_modules/bootstrap/js/dist/collapse.js",
+      "node_modules/bootstrap/js/dist/dropdown.js",
+      "node_modules/bootstrap/js/dist/tab.js",
+      "node_modules/bootstrap/js/dist/util.js"
+    ]
+  },
+  "singles": [{
+    "src": "",
+    "dest": ""
+  }]
+}

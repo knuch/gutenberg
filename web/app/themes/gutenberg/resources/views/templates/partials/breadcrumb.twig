@@ -1,0 +1,26 @@
+
+{% set items = breadcrumb|default([]) %}
+{% if false %}
+
+<nav aria-label="breadcrumb" class="breadcrumb-wrapper">
+  <ol class="breadcrumb text-sm">
+    <li class="breadcrumb-item breadcrumb-item-icon">
+      <a href="{{site.url}}">
+        <svg class="icon" aria-hidden="true"><use xlink:href="#icon-home"></use></svg>
+      </a>
+    </li>
+    {% for item in breadcrumb %}
+      {% if item.current %}
+        <li class="breadcrumb-item active">
+          {{item.title}}
+        </li>
+      {% else %}
+        <li class="breadcrumb-item">
+          <a href="{{item.url}}">{{item.title}}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ol>
+</nav>
+
+{% endif %}

@@ -1,0 +1,10 @@
+<h2>Twig is life</h2>
+<h3>{{ title }}</h3>
+{% for post in posts %}
+  <div class="card {{ className }}">
+    <div class="card-body">
+      <a href="{{ post.link }}">{{post.post_title}}</a>
+      {{ post.post_content }}
+    </div>
+  </div>
+{% endfor %}
